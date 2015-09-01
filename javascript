@@ -46,6 +46,26 @@ Firefox -  Command + Option + K (mac), Control + shift + k (windows)
 Internet explore - f12 key
 Safari - Command + Option + C (mac)
 
+Reserve words for naming variables:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
 
+How to name:
+Variables
+- names can't start with number
+- names can only contain letters, numbers, $, _
+
+
+
+
+Variables
+- we place values in them
+
+Type of values:
+1. Numbers
+2. Strings
+  - start with ' ' or " ". To put a quote mark in a string  
+  - "They've." or use \'   ---> "They\'ve"
+  - '<h1 class="container">They</h1>'; or use '<h1 class=\"container\">They</h1>';
+3.
 
 
