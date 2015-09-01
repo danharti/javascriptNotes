@@ -19,6 +19,33 @@ A program is composed of multiple statements.
 A set of statements that run one after the other.
 One statement needs to be complete before the next statement runs.
 
+HTML - content
+CSS - style
+JavaScript - interactivity
+
+Each browser has a JS interpreter.
+Javascript interpreter - reads all the statements in your program and does what the statement says to do.
+Running (executes) a program - when a browser reads and acts on JS program
+
+Javascript files - must end with .js
+
+to connect it to html file: <script src="scripts.js"></script>
+src = source attributes
+
+or you can do <script>//add your code here</script>
+
+position:
+1. usually just before the closing head tag
+2. just before the closing body tag
+
+Advantage: if it is place in #2 - let's the browser load and display any HTML before running the JavaScript.
+
+Javascript console shortcut:
+Chrome - Command + Option + J (mac), Control + shift + J (windows)
+Firefox -  Command + Option + K (mac), Control + shift + k (windows)
+Internet explore - f12 key
+Safari - Command + Option + C (mac)
+
 
 
 
