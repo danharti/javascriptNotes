@@ -15,3 +15,10 @@ Javascript statement
 - sentence
 - ends with semicolon
 
+A program is composed of multiple statements.
+A set of statements that run one after the other.
+One statement needs to be complete before the next statement runs.
+
+
+
+
