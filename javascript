@@ -62,6 +62,7 @@ Variables
 
 Type of values:
 1. Numbers
+  - we can use to form calculations
 2. Strings
   - start with ' ' or " ". To put a quote mark in a string  
   - "They've." or use \'   ---> "They\'ve"
@@ -72,4 +73,16 @@ Type of values:
 Objects eg. string, document, browser's console
 Property eg. length of string
 Method - these are actions the objects can perform
+
+------------
+Numbers
+Integer - whole numbers (positive and negative)
+Floating Point Numbers - with decimals
+Scientific Notation - 10e-8, 19e-4
+
++, - , *, /
++=, -=, *=, /=
+
+parseInt - integer (whole numbers)
+parseFloat - float (decimal numbers)
 
