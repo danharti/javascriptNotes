@@ -69,3 +69,7 @@ Type of values:
 3.
 
 
+Objects
+Property
+Method
+
