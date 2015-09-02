@@ -69,7 +69,7 @@ Type of values:
 3.
 
 
-Objects
-Property
-Method
+Objects eg. string, document, browser's console
+Property eg. length of string
+Method - these are actions the objects can perform
 
