@@ -112,3 +112,21 @@ var functionName = function (){
 
 anonymous function - function without a name
 to call it, same with how you call a function.
+
+return - returning a value, function gives something back when they finish.
+function functionName() {
+  return "a string";
+}
+functionName(); ---> results to ---> a string
+
+***return statement exits the function immediately, make sure it is the last statement inside your function.
+***can return only one value
+
+How you can send information to a function?
+To give information to function:
+parameter - is the variable (parameter name) - stores the value of the argument
+argument - value or info
+
+Passing an argument to a function...
+
+
