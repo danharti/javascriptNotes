@@ -127,6 +127,6 @@ To give information to function:
 parameter - is the variable (parameter name) - stores the value of the argument
 argument - value or info
 
-Passing an argument to a function...
+Passing an argument to a function:
 
 
