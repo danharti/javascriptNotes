@@ -86,3 +86,9 @@ Scientific Notation - 10e-8, 19e-4
 parseInt - integer (whole numbers)
 parseFloat - float (decimal numbers)
 
+
+function
+- declaring a function
+
+function functionName(){
+}
