@@ -89,6 +89,16 @@ parseFloat - float (decimal numbers)
 
 function
 - declaring a function
+- naming convention same with variables
+- creating a function - no semicolon
 
 function functionName(){
 }
+
+{ } - code block
+
+To use the function - you CALL the function:
+function name parenthesis then semicolon
+functionName();
+
+place functions created on top of the file as reference
