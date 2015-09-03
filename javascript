@@ -93,6 +93,7 @@ function
 - creating a function - no semicolon
 
 function functionName(){
+  //code here
 }
 
 { } - code block
@@ -102,3 +103,12 @@ function name parenthesis then semicolon
 functionName();
 
 place functions created on top of the file as reference
+
+function expression - let's you assign a function to a variable
+**ends with semicolon
+var functionName = function (){
+  //code here
+};
+
+anonymous function - function without a name
+to call it, same with how you call a function.
