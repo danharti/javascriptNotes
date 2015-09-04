@@ -1,0 +1,47 @@
+# data
+
+Data Types
+1. String
+2. Number
+3. Booleans
+4. Array
+
+
+Data Structure - is a way to store and organize information
+
+1. Variables
+2. Arrays
+3. Objects
+
+------------------
+Variable
+
+var variableName = "this is a variable";
+
+To access it:
+- write the variable name
+
+variableName
+
+To add or change the value inside the variable:
+variableName = "newValue"
+
+------------------
+Array
+[ ] - array literal, empty array
+    - values are separated by comma
+
+var arrayName = [ ];
+
+To access it:
+- use the index value (index value is the number that indicates the position of that value in the list)
+- it starts with 0
+
+arrayName[0];
+
+To add item/values in the array:
+# - index value where you want to add the value
+arrayName[#] = "newValue"
+
+
+
