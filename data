@@ -43,5 +43,18 @@ To add item/values in the array:
 # - index value where you want to add the value
 arrayName[#] = "newValue"
 
+push() - adding an item at the end
+arrayName.push("newValue");
 
+unshift() - adding an item in front
+arrayName.unshift("newValue");
+
+To remove:
+pull() - removing an item at the end
+arrayName.pull();
+
+shift() - removing an item in front
+arrayName.shift();
+
+***Using For Loops in an array****
 
