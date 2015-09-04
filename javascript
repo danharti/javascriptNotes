@@ -152,3 +152,10 @@ For Loops - used for actions that needs to run a particular number of times
 for (var counter = 0; counter < 5; counter +=1) {
   //code here
 }
+
+
+**** 
+helper files --- 
+library
+module
+plugin 
