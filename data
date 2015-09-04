@@ -58,3 +58,21 @@ arrayName.shift();
 
 ***Using For Loops in an array****
 
+------------------
+Object
+- single item that holds multiple variables
+
+{ }
+{key: "value", key: "value"};
+key (property) name - not in quotes
+
+-has properties and methods
+properties - variable that belongs to the object
+methods - something the object can do 
+
+Key-value pairs (aka property-value pairs)
+key (property name) - like a variable name
+value - like the value of that variable
+
+
+
