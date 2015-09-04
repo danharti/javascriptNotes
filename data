@@ -62,8 +62,8 @@ arrayName.shift();
 Object
 - single item that holds multiple variables
 
-{ }
-{key: "value", key: "value"};
+var object = { };
+var objectInside = {key: "value", key: "value"};
 key (property) name - not in quotes
 
 -has properties and methods
