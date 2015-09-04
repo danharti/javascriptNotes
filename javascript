@@ -129,4 +129,26 @@ argument - value or info
 
 Passing an argument to a function:
 
+Loop 
+- a loop is a way to repeat the same actions a certain number of times, or until a certain condition is true.
 
+
+While Loop - will not execute if test condition is false
+
+while (testCondition) {
+
+}
+- as long as the condition is true it will just run the loop
+
+Do While Loop: - this will execute at least once. Run first before checking the condition.
+
+do {
+
+} while (testCondition)
+
+For Loops - used for actions that needs to run a particular number of times
+          - usually use with arrays
+          
+for (var counter = 0; counter < 5; counter +=1) {
+  //code here
+}
